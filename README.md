@@ -17,3 +17,5 @@ Der Datensatz bestehet aus 53'940 Zeilen
 - **price**: Preis des Diamanten in USD  
 
 ## Bewertung Datenschutz
+
+Der Datenshchutz ist in diesem Datensatz gewährleistet, weil keine personenbezogenen Daten verarbeitet werden. Es gibt keine Informationen zu den Personen, die diese Diamanten besitzen.
